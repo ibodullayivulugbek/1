@@ -1,0 +1,30 @@
+.a{
+    border-style: solid;
+    border-color: blue;
+    border-radius: 15px;
+    margin: auto;
+    margin-top: 250px;
+    width: 350px;
+    border-right: solid blue;
+    height: 280px;
+}
+form{
+    text-align: left;
+    margin-left: 20px;
+}
+h1{
+  text-align: center;
+}
+button{
+    text-align: center;
+    background-color: blue;
+    color: white;
+    padding: 0px 140px 0px 130px;
+}
+p{
+   text-align: center;
+}
+body{
+    background-image: linear-gradient(  red, blue );
+
+}
